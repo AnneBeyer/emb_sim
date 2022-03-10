@@ -4,7 +4,7 @@
 The embedding spaces used in this study were trained using the [PPMI+SVD implementation from Levy et al. (2015)](
 https://bitbucket.org/omerlevy/hyperwords/src/f5a01ea3e44c/). The English 260 MB embeddings are contained in the embeddings directory. The complete set of pre-trained embedding spaces can be downloaded via
 ```
-wget https://cis.lmu.de/~beyera/embeddings/embeddings.zip
+wget https://cis.lmu.de/beyera/embeddings/embeddings.zip
 ```
 
 Other resources (e.g. vocab files, corpora and embeddings from the simulation study) are available upon request. (anne.beyer@campus.lmu.de)
